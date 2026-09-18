@@ -1,0 +1,8 @@
+{
+  "name": "Airline Disruption Resolution Agent",
+  "description": "Customer-facing airline disruption resolution agent with deterministic policy guardrails and audit tracing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
